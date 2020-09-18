@@ -1,3 +1,3 @@
 # rsschool-cv
 
-https://artemyanchenko.github.io/rsschool-cv/cv
+https://github.com/ArtemYanchenko/rsschool-cv/blob/rsschool-cv-html
